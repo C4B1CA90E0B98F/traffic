@@ -1,5 +1,3 @@
-#!/bin/bash
-
 sudo apt-get update \
 && sudo apt install xorg \
 && sudo apt-get install firefox xvfb \
